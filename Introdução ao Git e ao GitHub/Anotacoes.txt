@@ -3,3 +3,8 @@ Projeto de Git e GitHub
 2º dia:
 Mentoria Carreira Eduzz: cultura e governança -> bastante esclarecedor quanto ao fit cultural da empresa e processo de seleção. 
 Dicas para o bootcamp: disciplina e realizar os desafios
+Dicas de livros: 
+	Motivação 3.0; 
+	Reinventando as organizações; 
+	Holacracia; 
+	Scrum: a arte de fazer o dobro na metade do tempo
