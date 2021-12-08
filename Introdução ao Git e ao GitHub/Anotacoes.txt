@@ -1,4 +1,5 @@
 1º dia:
 Projeto de Git e GitHub
 2º dia:
-Mentoria Carreira Eduzz: cultura e governança -> bastante esclarecedor quanto ao fit cultural da empresa e processo de seleção.
+Mentoria Carreira Eduzz: cultura e governança -> bastante esclarecedor quanto ao fit cultural da empresa e processo de seleção. 
+Dicas para o bootcamp: disciplina e realizar os desafios
