@@ -8,3 +8,5 @@ Dicas de livros:
 	Reinventando as organizações; 
 	Holacracia; 
 	Scrum: a arte de fazer o dobro na metade do tempo
+3º dia:
+Aulas de TypeScript
