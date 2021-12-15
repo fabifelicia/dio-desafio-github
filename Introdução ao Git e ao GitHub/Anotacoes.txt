@@ -10,3 +10,18 @@ Dicas de livros:
 	Scrum: a arte de fazer o dobro na metade do tempo
 3º dia:
 Aulas de TypeScript
+4º dia
+Mentoria Explicando o Projeto e prototipando a aplicação
+Projeto: Gerenciamento de Campanhas do usuario
+04 etapas:
+Definição de Projeto
+Pesquisa de Referencia e Inspirações
+Requisitos: 
+	regras de acesso; 
+	serviço de mensageria
+Campos presentes na tela: 
+	email, 
+	senha, 
+	esqueci a senha, 
+	botão para açao de login,
+	criar nova conta
