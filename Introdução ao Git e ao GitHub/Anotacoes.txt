@@ -25,3 +25,5 @@ Campos presentes na tela:
 	esqueci a senha, 
 	botão para açao de login,
 	criar nova conta
+Wireframe: esboço, estrutura das informações
+Protótipo de alta fidelidade: simular o produto
